@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10f643d6-c532-4dec-8d39-15f89db6de00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card-list/card-list.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card-list/card-list.style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card/card.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card/card.style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +64,16 @@
       <option name="presentableId" value="Default" />
       <updated>1592422218800</updated>
       <workItem from="1592422220145" duration="1440000" />
-      <workItem from="1592489821290" duration="8595000" />
+      <workItem from="1592489821290" duration="9189000" />
     </task>
+    <task id="LOCAL-00001" summary="add cards">
+      <created>1592504031711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592504031712</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add cards" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cards" />
   </component>
 </project>
